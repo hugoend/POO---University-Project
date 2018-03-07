@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}PROJETO DE POO - UFRB - SEMESTRE 2017.1
+${licensePrefix}ALUNO: HUGO FLORIANO ${licensePrefix}
+<#if licenseLast??>
+${licenseLast}
+</#if>
